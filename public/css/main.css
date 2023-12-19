@@ -1,0 +1,17 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    background-image: url(../images/homeimg.jpg);
+    background-attachment: fixed;
+    overflow: hidden;
+}
+
+h2{
+    background-color: #163020;
+    color:#FFECD6;
+    padding: 20px 10px;
+    border-radius: 10px;
+}
+h2:empty{
+    display: none;
+}
